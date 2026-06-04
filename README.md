@@ -49,6 +49,6 @@ Software Developer & IT Specialist
     *   🇺🇸 Custom enterprise CRM application.
     *   *Technologies:* ASP.NET Core, MSSQL
 *   **Dijital Kütüphane:** 
-    *   🇹🇷 Toyotetsu masaüstü kütüphane yönetim uygulaması.
+    *   🇹🇷 Masaüstü kütüphane yönetim uygulaması.
     *   🇺🇸 Desktop library management application.
     *   *Technologies:* C# WinForms, MSSQL
